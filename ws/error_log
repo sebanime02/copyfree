@@ -1,0 +1,54 @@
+[04-Mar-2016 12:28:13 America/Chicago] PHP Fatal error:  Class 'Establecimiento' not found in /home4/soypayanes/public_html/copiasgratis.com/ws/obtener_establecimiento.php on line 11
+[04-Mar-2016 13:16:51 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:16:51 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:16:51 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:17:56 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:17:56 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:17:56 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:18:17 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:18:17 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:18:17 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:23:24 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:23:24 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:23:24 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:07 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:07 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:07 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:40 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:40 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:40 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:44 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:44 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:44 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:45 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:45 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:25:45 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:28:22 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:28:22 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:28:22 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:28:34 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:28:34 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 13:28:34 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 14:51:06 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 14:51:06 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 14:51:06 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 14:51:35 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 14:51:35 America/Chicago] PHP Warning:  include(includes/cabecera.php): failed to open stream: No such file or directory in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 14:51:35 America/Chicago] PHP Warning:  include(): Failed opening 'includes/cabecera.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 3
+[04-Mar-2016 16:09:54 America/Bogota] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`soypayan_copias_gratis`.`usuario`, CONSTRAINT `FK_FK_ID_FACULTAD` FOREIGN KEY (`ID_FACULTAD`) REFERENCES `facultad` (`ID_FACULTAD`))' in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php:64
+Stack trace:
+#0 /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php(64): PDOStatement->execute(Array)
+#1 /home4/soypayanes/public_html/copiasgratis.com/ws/insertar_usuario.php(15): Establecimiento::insert('hh', 'c')
+#2 {main}
+  thrown in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 64
+[04-Mar-2016 17:56:52 America/Bogota] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php:77
+Stack trace:
+#0 /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php(77): PDOStatement->execute(Array)
+#1 /home4/soypayanes/public_html/copiasgratis.com/ws/insertar_usuario.php(15): Establecimiento::insert('Fernan Ricardo ', 'Enriquez Quinte...')
+#2 {main}
+  thrown in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 77
+[04-Mar-2016 21:33:30 America/Bogota] PHP Fatal error:  Call to undefined function enviarCorreoActivacion() in /home4/soypayanes/public_html/copiasgratis.com/ws/insertar_usuario.php on line 25
+[04-Mar-2016 21:37:49 America/Bogota] PHP Fatal error:  Call to undefined function enviarCorreoActivacion() in /home4/soypayanes/public_html/copiasgratis.com/ws/insertar_usuario.php on line 25
+[05-Mar-2016 09:23:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$fechaNacimiento' (T_VARIABLE), expecting ')' in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 77
+[05-Mar-2016 09:30:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$fechaNacimiento' (T_VARIABLE), expecting ')' in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 77
+[05-Mar-2016 09:31:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$fechaNacimiento' (T_VARIABLE), expecting ')' in /home4/soypayanes/public_html/copiasgratis.com/ws/Establecimiento.php on line 77
