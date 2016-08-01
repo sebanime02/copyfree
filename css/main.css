@@ -776,8 +776,32 @@ ul.sub-menu {
 .clients-logo {
   overflow: hidden;
   margin-bottom: 10px;
+  
+}
+.wrapper-logos{
+  
+  padding-top: 5%;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
 }
 
+
+.wrapper-logos h2{
+  vertical-align: middle;
+  display: inline-block;
+  font-family: 'Roboto';
+  font-weight: 300;
+  padding-right: 2%;
+  
+}
+.wrapper-logos img{
+  padding: 5px;
+  width: 12%;
+  height: 12%;
+  display: inline-block;
+}
 
 
 /*************************
@@ -790,9 +814,11 @@ ul.sub-menu {
 }
 
 #page-breadcrumb {
-  background-image: url(../images/home/tour-bg.png);
-  background-color: #fbfafa;
-  background-repeat: repeat-x;
+  
+  border: 2px solid #FFEB3B;
+  border-radius: 6px;
+  background-color: white;
+ 
   height: 130px;
   background-position: center;
   display: table;
@@ -2770,8 +2796,14 @@ span.stButton_gradient,
 .container-apoyo{
   padding-top: 30px;
 }
-.container-img-responsive{
-  height: 5%;
-  width: 100%;
 
+.espacio-inputs-login input{
+  color: black;
+  border-radius: 2px;
+}
+.espacio-inputs-login input:active{
+  
+}
+.espacio-inputs-login *{
+  margin-bottom: 3%;
 }

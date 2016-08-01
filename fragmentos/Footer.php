@@ -1,4 +1,42 @@
-        <br><br><br><br><br><br><br><br><br><br><div class="container">
+        <!--    
+            <div class="container-apoyo">
+                <div class="clients-logo wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
+                           
+                            <div class="col-xs-3 col-sm-2">
+
+                                <a href="#"><img src="images/home/client1.png" class="img-responsive" style="visibility:hidden;"></a>
+                            </div>
+                            <div class="col-xs-3 col-sm-2">
+                               
+                                 <p>CON EL APOYO DE : </p>
+                            </div>
+                           
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="#"><img src="images/home/cluster_creaticsmall.png" class="img-responsive"  alt=""></a>
+                            </div>
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="#"><img src="images/home/ezcorpgrouplogo.png" class="img-responsive "  ></a>
+                            </div>
+                            <div class="col-xs-3 col-sm-2">
+                            <a href="#"><img src="images/home/client5.png" class="img-responsive"style="visibility:hidden;" ></a>
+                            </div>
+                            <div class="col-xs-3 col-sm-2">
+                                <a href="#"><img src="images/home/client6.png" class="img-responsive" style="visibility:hidden;"></a>
+                            </div>
+                            
+                </div>
+            </div>
+        -->
+
+            <div class="wrapper-logos"> 
+                <div> 
+                        <h2>CON EL APOYO DE : </h2>
+
+                        <a href="http://clustercreatic.com/"><img src="images/home/cluster_creaticsmall.png"></a>
+                        <a href="http://ezcorpgroup.com"><img src="images/home/logoEmpresarial.png"></a>
+                </div> 
+            </div>
+        <br><br><br><div class="container">
             <div class="row">
                
                 <div class="col-md-4 col-sm-6">

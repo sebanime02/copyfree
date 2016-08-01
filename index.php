@@ -206,30 +206,7 @@ include('includes/Cabecera.php');
     <!--/#clients-->
 
         <footer id="footer">
-            <div class="container-apoyo">
-                <div class="clients-logo wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
-                            <div class="col-xs-3 col-sm-2">
-
-                                <a href="#"><img src="images/home/client1.png" class="img-responsive" style="visibility:hidden;"></a>
-                            </div>
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="#"><img src="images/home/client2.png" class="img-responsive" style="visibility:hidden;"></a>
-                                 <p>CON EL APOYO DE : </p>
-                            </div>
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="#"><img src="images/home/cluster_creaticsmall.png" class="img-responsive container-img-responsive" alt=""></a>
-                            </div>
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="#"><img src="images/home/minticlargosmall.png" class="img-responsive container-img-responsive" style="visibility:hidden;"></a>
-                            </div>
-                            <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client5.png" class="img-responsive"style="visibility:hidden;" ></a>
-                            </div>
-                            <div class="col-xs-3 col-sm-2">
-                                <a href="#"><img src="images/home/client6.png" class="img-responsive" style="visibility:hidden;"></a>
-                            </div>
-                </div>
-            </div>
+            
             <?php 
 		  include('fragmentos/Footer.php')
 		  ?>
