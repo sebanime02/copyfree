@@ -38,8 +38,9 @@
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-center">
-                        <li class="active"><a href="inicio.php">LOGIN</a></li>
-                        <li class="active"><a href="quienessomos.php">QUIENES SOMOS</a></li>
+                        <li class="active"><a href="index.php">Principal</a></li>
+                        <li class="active"><a href="inicio.php">Login</a></li>
+                        <li class="active"><a href="quienessomos.php">Quienes Somos</a></li>
                         <!--li class="active"><a href="consulta.php">Donde Fotocopiar?</a></li>                
                         <li class="active"><a href="contactanos.php">Contactanos</a></li-->              
                         <!--li class="active"><a href="planes.php">Planes</a></li-->             

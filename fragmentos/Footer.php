@@ -34,6 +34,7 @@
 
                         <a href="http://clustercreatic.com/"><img src="images/home/cluster_creaticsmall.png"></a>
                         <a href="http://ezcorpgroup.com"><img src="images/home/logoEmpresarial.png"></a>
+                        <a href="http://soypayanes.com"><img src="images/home/soypayanes.png"></a>
                 </div> 
             </div>
         <br><br><br><div class="container">

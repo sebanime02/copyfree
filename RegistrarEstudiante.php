@@ -37,7 +37,8 @@ include('includes/Cabecera.php');
         <div class="container">
             <div class="row">
                 <div class="main-slider">
-                    <div class="slide-text"><br><br>
+                    <div class="slide-text">
+                        <br>
                         <h2>Registrarme</h2>
                     
 					
@@ -59,11 +60,8 @@ if (!empty($_GET['msj'])) {
 
        
                     </div>
-                    <img src="images/home/slider/hill.png" class="slider-hill" alt="slider image">
-                    <img src="images/home/slider/house.png" class="slider-house" alt="slider image">
-                    <img src="images/home/slider/sun.png" class="slider-sun" alt="slider image">
-                    <img src="images/home/slider/birds1.png" class="slider-birds1" alt="slider image">
-                    <img src="images/home/slider/birds2.png" class="slider-birds2" alt="slider image">
+                    <img src="images/student.png" class="slider-hill" id="img-adduser" alt="adduser image">
+                    
                 </div>
             </div>
         </div>
@@ -72,9 +70,13 @@ if (!empty($_GET['msj'])) {
     <!--/#home-slider-->
 
 <br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+
 <footer id="footer">
-    
+       
         <?php 
+
         include('fragmentos/Footer.php')
         ?>
     </footer>

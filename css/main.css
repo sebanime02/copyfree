@@ -2807,3 +2807,16 @@ span.stButton_gradient,
 .espacio-inputs-login *{
   margin-bottom: 3%;
 }
+
+.link-volver{
+  padding-top: 5%;
+  text-decoration: none;
+
+}
+
+#img-adduser {
+  
+  width: 350px;
+ 
+  
+}

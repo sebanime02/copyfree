@@ -66,7 +66,7 @@ include('includes/Cabecera.php');
                                 <h3>Paso 1 "Registrate":</h3>
                                 <p>Completa el formulario de registro que se encuentra dando click en el siguiente botón.</p>
                         
-                                <a href="indice.php?par=1" class="btn btn-common">REGISTRARME</a>
+                                <a href="RegistrarEstudiante.php" class="btn btn-common">REGISTRARME</a>
                         
                                  <h3>Paso 2 “Actívate”:</h3>
                                  <p>Activa tu cuenta accediendo al  enlace que ha llegado a tu correo electrónico.</p>
@@ -104,7 +104,7 @@ include('includes/Cabecera.php');
                                 <img src="images/home/marketing.png" alt="">
                             </div>
                             <h2>Publicidad Segmentada</h2>
-                            <p>La publicidad tradicional es costosa y llega a quien no necesita de tu producto o servicio. Nosotros estamos aliados con centros de copiado que manejan publicos diversos y segmentados.</p>
+                            <p>La publicidad tradicional es costosa y no llega específicamente al público que buscas. Nosotros estamos aliados con centros de copiado que manejan públicos diversos y bien segmentados.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -113,7 +113,7 @@ include('includes/Cabecera.php');
                                 <img src="images/home/pie-chart.png" alt="">
                             </div>
                             <h2>Medición de las campañas publicitarias</h2>
-                            <p>Utilizamos un sistema que te muestra cuando una compra ha sido gracias a tu anuncio en copiasgratis. </p>
+                            <p>Utilizamos un sistema que te muestra cuando una compra se ha realizado gracias a tu anuncio en copiasgratis. </p>
                         </div>
                     </div>
                     <div class="col-sm-4 text-center padding wow fadeIn" data-wow-duration="1000ms" data-wow-delay="900ms">

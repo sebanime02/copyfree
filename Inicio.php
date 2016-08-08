@@ -53,6 +53,11 @@ include('includes/Cabecera.php');
 			}
 if(empty($_SESSION['nombres'])){
 include('fragmentos/IniciarSesionHtml.php');
+?>
+<a class="link-volver" href="http://localhost:8080/Salvado/index.php"> <- Regresar a la página principal</a>
+<?php
+
+
 }else{
 	echo 'Bienvenid@ '.$_SESSION['nombres'].' '.$_SESSION['apellidos'].'<br>'.'<br>';
 	

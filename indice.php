@@ -20,7 +20,7 @@
 <?php
 } else {
 	?>
-<iframe width="100%" height="600px" src="Inicio.php" marginheight="0" onload="resizeIframe(this)" marginwidth="0" noresize scrolling="No" frameborder="0" />
+<iframe width="100%" height="250px" src="Inicio.php" marginheight="0" onload="resizeIframe(this)" marginwidth="0" noresize scrolling="No" frameborder="0" />
 
 	<?php
 }?>
