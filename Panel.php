@@ -64,7 +64,8 @@ include('includes/Cabecera.php');
 <?php
             include('fragmentos/FotocopiarHtml.php');
 			?>
-            <a href="includes/CambiarUsuario.php"  >Cambiar Usuarios</a></div>
+            
+        </div>
             <?php
 
                 echo '<br>'.$mensaje.'<br>';
@@ -99,7 +100,7 @@ include('includes/Cabecera.php');
         }*/
         ?>
 <br><br>
-            <a href="includes/CerrarSesion.php"  >Cerrar Sesion</a>
+            <a class="btn btn-danger" href="includes/CerrarSesion.php"  >Cerrar Sesion</a>
 		<script>
 		<?php if(!empty($mensaje) && $mensaje!="") { ?>
         alert('<?php echo $mensaje ?>');
@@ -109,7 +110,7 @@ include('includes/Cabecera.php');
        
                     </div>
 
-                    <img src="images/logotransparente.png" class="slider-house" alt="slider image">
+                    <img src="images/logotransparente.png" class="slider-house slider-house-panel" alt="slider image">
                     
                 </div>
             </div>

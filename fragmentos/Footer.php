@@ -31,10 +31,11 @@
             <div class="wrapper-logos"> 
                 <div> 
                         <h2>CON EL APOYO DE : </h2>
-
-                        <a href="http://clustercreatic.com/"><img src="images/home/cluster_creaticsmall.png"></a>
-                        <a href="http://ezcorpgroup.com"><img src="images/home/logoEmpresarial.png"></a>
-                        <a href="http://soypayanes.com"><img src="images/home/soypayanes.png"></a>
+                        <div class="logos-clientes">
+                            <a href="http://clustercreatic.com/"><img src="images/home/cluster_creaticsmall.png"></a>
+                            <a href="http://ezcorpgroup.com"><img src="images/home/logoEmpresarial.png"></a>
+                            <a href="http://soypayanes.com"><img src="images/home/soypayanes.png"></a>
+                        </div>        
                 </div> 
             </div>
         <br><br><br><div class="container">

@@ -564,6 +564,23 @@
 
   /* Pricing Table*/
 
+  .logos-clientes{
+    
+    display: block;
+
+  }
+  .logos-clientes img{
+    
+    height: 18%;
+    width: 18%;
+    
+  }
+  .slider-house-panel{
+    display: none;
+  }
+  #footer{
+    background-image: none;
+  }
   .single-price, .single-table {
     margin-bottom: 35px;
   }

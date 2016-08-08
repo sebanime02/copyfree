@@ -53,8 +53,12 @@ include('includes/Cabecera.php');
 			}
 if(empty($_SESSION['nombres'])){
 include('fragmentos/IniciarSesionHtml.php');
+
 ?>
-<a class="link-volver" href="http://localhost:8080/Salvado/index.php"> <- Regresar a la página principal</a>
+<br>
+<br>
+<br>
+<a class="link-volver" href="index.php"> <- Regresar a la página principal</a>
 <?php
 
 
