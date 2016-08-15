@@ -31,7 +31,7 @@ if (empty($result)) {
     } else if ($result['ID_TIPO_USUARIO'] == 3) {
         $_SESSION['idFacultad'] = $result['ID_FACULTAD'];
         $_SESSION['copiasDisponiblesEstudiante'] = $result['COPIAS_DISPONIBLES'];
-        header('Location: ../Panel.php');
+        header('Location: ../Inicio.php');
     }
 }
 ?>
